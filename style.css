@@ -1,0 +1,36 @@
+body
+{
+	background-image: url("backgroundthree.jpg");
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#header{
+	background-color: rgb(163, 134, 218);
+	font-family: 'Permanent Marker', cursive;
+}
+h3{
+
+	font-size: 50px;
+	color: rgb(217, 236, 231);
+}
+#button{
+	color: whitesmoke;
+	background-color: rgb(141, 80, 255);
+	border-radius: 50px;
+}
